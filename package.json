@@ -33,5 +33,6 @@
   },
   "dependencies": {
     "@rbxts/roact": "^1.4.2-ts.0"
-  }
+  },
+  "repository": "https://github.com/jheinem1/better-binding"
 }
